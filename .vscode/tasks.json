@@ -6,7 +6,7 @@
         {
             "label": "build",
             "command": "dotnet",
-            "type": "process",
+            "type": "shell",
             "group": "build",
             "problemMatcher": "$msCompile",
             "args": [
